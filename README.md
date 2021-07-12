@@ -1,7 +1,7 @@
 <h1>👋 Hello there, I’m Glenda!</h1>
 🌱 I’m currently working on learning: C#, Kubernetes, Ruby on Rails<br><br>
 💻 Im also working on making a web app using Python and Django<br>
--- You can also find me frequently updating past projects when I learn new things!<br><br>
+*** You can also find me frequently updating past projects when I learn new things!<br><br>
 📫 How to reach me: <a href="mailto:gsalas1@uco.edu">gsalas1@uco.edu</a> 
 <br>👯 Feel Free to connect!: https://www.linkedin.com/in/g2salas/
 <!---
