@@ -1,5 +1,5 @@
 <h1>👋 Hello there, I’m Glenda!</h1>
-🌱 I’m currently working on learning: C#, Kubernetes<br><br>
+🌱 I’m currently working on learning: C#, Kubernetes, & Rust<br><br>
 💻 Im also working on making a web app using Python and Django<br>
 📫 How to reach me: <a href="mailto:gsalas1@uco.edu">gsalas1@uco.edu</a> 
 <br>👯 Feel Free to connect!: https://www.linkedin.com/in/g2salas/
