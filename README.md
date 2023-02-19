@@ -2,7 +2,7 @@
 🌱 I’m currently working on learning: C#, Kubernetes, & Rust<br><br>
 📫 How to reach me: <a href="mailto:gsalas1@uco.edu">gsalas1@uco.edu</a> 
 <br>👯 Feel Free to connect!: https://www.linkedin.com/in/glendas7/ <br><br>
-Some other things i'm into: Violin, VideoGames(MMO, RPG), Sewing, Crocheting, 3D Printing/Modeling, Drones, Improving my foreign language skills(French & German)
+Some other things i'm into: Violin, VideoGames(MMO, RPG), Sewing, Crocheting, 3D Printing/Modeling, Drones
 
 Have a great day!
 <!---
