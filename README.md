@@ -1,5 +1,5 @@
 <h1>👋 Hello there, I’m Glenda!</h1>
-🌱 I’m currently working on learning: Ada, Kubernetes, & Rust<br><br>
+🌱 I’m currently working on learning: Ada & Rust<br><br>
 📫 How to reach me: <a href="mailto:gsalas1@uco.edu">gsalas1@uco.edu</a> 
 <br>👯 Feel Free to connect!: https://www.linkedin.com/in/glendas7/ <br><br>
 Some other things i'm into: Violin, VideoGames(MMO, RPG, SURVIVAL), Sewing, Crocheting, 3D Printing/CAD, Drones, Space/Physics
