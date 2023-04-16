@@ -2,7 +2,7 @@
 🌱 I’m currently working on learning: Ada & Rust<br><br>
 📫 How to reach me: <a href="mailto:gsalas1@uco.edu">gsalas1@uco.edu</a> 
 <br>👯 Feel Free to connect!: https://www.linkedin.com/in/glendas7/ <br><br>
-Some other things i'm into: Violin, VideoGames, Sewing, Crocheting, 3D Printing/CAD, Drones, Space/Physics
+Some other things i'm into: Violin, VideoGames, Sewing, Crocheting, 3D Printing/CAD, Drones, Space/Physics, Aviation
 
 Have a great day!
 <!---
